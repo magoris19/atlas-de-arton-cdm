@@ -1,7 +1,7 @@
 {
-  "id": "atlas-de-arton-cdm-dev",
+  "id": "atlas-de-arton-cdm",
   "title": "Atlas de Arton — CDM",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "v12.331"
@@ -39,5 +39,5 @@
   ],
   "flags": {},
   "manifest": "https://raw.githubusercontent.com/magoris19/atlas-de-arton-cdm/main/module.json",
-  "download": "https://github.com/magoris19/atlas-de-arton-cdm/archive/refs/tags/v0.0.1.zip"
+  "download": "https://github.com/magoris19/atlas-de-arton-cdm/archive/refs/tags/v0.0.2.zip"
 }
