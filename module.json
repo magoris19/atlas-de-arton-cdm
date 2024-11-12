@@ -1,0 +1,43 @@
+{
+  "id": "atlas-de-arton-cdm-dev",
+  "title": "Atlas de Arton — CDM Dev",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "v12.331"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Conteúdo do Atlas de Arton, para utilização em campanhas próprias.\n\nCompartilhamento proibido.",
+  "authors": [
+    {
+      "name": "Magoris",
+      "discord": "magoris",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "itens",
+      "label": "Itens",
+      "path": "packs/itens",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ],
+  "flags": {},
+  "manifest": "https://raw.githubusercontent.com/magoris19/atlas-de-arton-cdm/main/module.json",
+  "download": "https://github.com/magoris19/atlas-de-arton-cdm/archive/refs/tags/v0.0.1.zip"
+}
