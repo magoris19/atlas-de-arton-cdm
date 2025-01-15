@@ -1,7 +1,7 @@
 {
   "id": "atlas-de-arton-cdm",
   "title": "Atlas de Arton — CDM",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "v12.331"
@@ -25,9 +25,9 @@
   ],
   "packs": [
     {
-      "name": "itens",
-      "label": "Itens",
-      "path": "packs/itens",
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -39,5 +39,5 @@
   ],
   "flags": {},
   "manifest": "https://raw.githubusercontent.com/magoris19/atlas-de-arton-cdm/main/module.json",
-  "download": "https://github.com/magoris19/atlas-de-arton-cdm/archive/refs/tags/v1.0.0.zip"
+  "download": "https://github.com/magoris19/atlas-de-arton-cdm/archive/refs/tags/v1.0.1.zip"
 }
